@@ -1,7 +1,7 @@
-## 😃 Hey, nice to see you!
+## 
 
-<h1 align="center">Hi 👋, I'm saranga</h1>
-<h3 align="center">🚀 Turning Coffee into Code | Passionate about Web & Software Development 💻</h3>
+<h1 align="center">😃 Hey, nice to see you!, I'm Saranga</h1>
+<h3 align="center">🚀 Turning Coffee into Code | Passionate about Web & Software Development 💻 | 🔥 Hey, let's code something cool!</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
