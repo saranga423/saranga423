@@ -1,7 +1,15 @@
-## Hi there 👋
+## Hi there,  👋
+
+🌱 I’m currently learning React Native, Android, FIGMA, ORACLE
+
+💬 Ask me about Web, Android
+
+📫 How to reach me: rasingollasaranga35@gmail.com
+
+⚡ Fun fact: I think I am funny
 
 <!--
-**saranga423/saranga423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saranga423/saranga423** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
