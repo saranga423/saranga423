@@ -1,4 +1,4 @@
-## Hi there,  👋
+## 😃 Hey, nice to see you!
 
 <h1 align="center">Hi 👋, I'm saranga</h1>
 <h3 align="center">🚀 Turning Coffee into Code | Passionate about Web & Software Development 💻</h3>
