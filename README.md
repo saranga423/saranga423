@@ -1,6 +1,6 @@
 ## 
 
-<h1 align="center">😃 Hey, nice to see you!, I'm Saranga</h1>
+<h1 align="center">😃 Hey, nice to see you!, I'm Saranga Rasingolla</h1>
 <h3 align="center">🚀 Turning Coffee into Code | Passionate about Web & Software Development 💻 | 🔥 Hey, let's code something cool!</h3>
 
 <img src="https://github.com/saranga423/saranga423/blob/main/d.png" width="400">
