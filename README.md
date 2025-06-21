@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saranga-rasingolla-2a6287249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFMdnLvQQROOf5t2nxvll6A%3D%3D](https://www.linkedin.com/in/saranga-rasingolla-2a6287249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFMdnLvQQROOf5t2nxvll6A%3D%3D)
 
-- ⚡ Fun fact **My code runs perfectly… until I show it to someone! 😆🚀**
+- ⚡ Fun fact **If your password is "password123", don't worry — it’s only been leaked millions of times. 😅**
 - 🔭 I’m currently studying in Sri Lanka Institute of Information Technology
 
 <h3 align="left">Connect with me:</h3>
