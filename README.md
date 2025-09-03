@@ -26,10 +26,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/saranga rasingolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranga rasingolla" height="30" width="40" /></a>
 
-<p align="left">
-  <a href="https://linkedin.com/in/saranga-rasingolla" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranga rasingolla" height="30" width="40" />
-  </a>
   <a href="https://wa.me/947035729177" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="40" />
   </a>
