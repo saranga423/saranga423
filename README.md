@@ -14,19 +14,17 @@
 
 ## 🧠 About Me
 
-I am an **Information Technology undergraduate at SLIIT**, specializing in building **scalable full-stack applications** and **AI-powered systems**.
-
-* 🔧 Strong in **Spring Boot, MERN Stack, and Microservices**
-* 🤖 Focused on **AI + Computer Vision + IoT integrations**
-* 📊 Experience building **real-world dashboards & SaaS-like systems**
-* 🛡️ Interested in **Cybersecurity & Secure Coding**
-* 🚀 Goal: Build impactful, production-grade systems
+* 🎓 IT Undergraduate at **SLIIT**
+* 💡 Passionate about **AI, Full-Stack Development & Cybersecurity**
+* 🚀 Building **real-world scalable applications**
+* 🧠 Exploring **Microservices & System Design**
+* ⚡ Fun fact: *"password123" has been leaked millions of times 😅*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Core Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge\&logo=javascript)
@@ -36,16 +34,15 @@ I am an **Information Technology undergraduate at SLIIT**, specializing in build
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui)
 
-### ⚙️ Backend & Architecture
+### ⚙️ Backend
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
-### 📱 Mobile Development
+### 📱 Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
 
@@ -54,7 +51,7 @@ I am an **Information Technology undergraduate at SLIIT**, specializing in build
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-### ☁️ Tools & Cloud
+### ☁️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
@@ -85,35 +82,25 @@ I am an **Information Technology undergraduate at SLIIT**, specializing in build
 
 ## 🚀 Featured Projects
 
-### 🔍 Fake News Detection System
+* 🔍 **Fake News Detection System**
+  → AI + NLP + Explainable Machine Learning
 
-* AI-powered misinformation detection platform
-* Explainable ML (feature importance, confidence insights)
-* FastAPI backend + React dashboard
+* 🌱 **Smart Pollination Assistant**
+  → AI + IoT + Robotics system
 
-### 🌱 Smart Pollination Assistant
+* 🛒 **JumaConnect Marketplace**
+  → Full-stack MERN platform
 
-* AI + IoT + Robotics system for agriculture
-* Computer Vision (YOLO) for flower detection
-* Mobile + Edge AI integration
-
-### 🛒 JumaConnect Marketplace
-
-* Full-stack MERN platform
-* Role-based workflows and scalable backend
-
-### 🎨 Portfolio Platform
-
-* Advanced UI with animations, counters, and modern UX
-* Built with React + performance optimizations
+* 🎨 **Portfolio Website**
+  → Advanced UI with animations
 
 ---
 
 ## 🎯 Current Focus
 
-* 🔄 Designing **Microservices Architectures (Spring Boot)**
-* 🤖 Improving **AI model deployment pipelines**
-* ⚡ Building **production-grade scalable systems**
+* 🔄 Microservices (Spring Boot)
+* 🤖 AI model deployment
+* ⚡ Scalable backend systems
 
 ---
 
