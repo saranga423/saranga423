@@ -135,9 +135,11 @@ I am an **Information Technology undergraduate at SLIIT**, specializing in build
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/saranga423/saranga423/blob/main/dist/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saranga423/saranga423/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saranga423/saranga423/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saranga423/saranga423/output/github-snake.svg" />
+</picture>
 
 ---
 
