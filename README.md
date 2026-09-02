@@ -94,33 +94,6 @@ UI / UX Thinking         ██████████████
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
----
-
-## Featured Projects
-
-### Fake News Detection System
-
-AI-powered misinformation detection platform with explainable outputs, model insights, and dashboard-driven monitoring.
-
-**Highlights**
-
-* NLP + explainable machine learning workflow
-* FastAPI backend with prediction and feedback pipeline
-* Interactive React dashboard for analytics and results visualization
-
----
-
-### Smart Pollination Assistant
-
-An agriculture-focused intelligent system combining AI, IoT, and robotics to improve pollination efficiency in pumpkin farming.
-
-**Highlights**
-
-* Computer vision-based flower analysis
-* IoT sensor integration and field monitoring
-* Mobile-assisted intelligence and deployment-oriented architecture
-
----
 
 ### JumaConnect Marketplace
 
